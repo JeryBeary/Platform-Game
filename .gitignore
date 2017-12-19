@@ -10,3 +10,6 @@
 .project
 .settings
 .buildpath
+
+# Swap files
+*.sw*
